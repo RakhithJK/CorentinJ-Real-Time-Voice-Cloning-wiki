@@ -1,4 +1,3 @@
-# Pretrained models
 Pretrained models come as an archive that contains **all three models** (speaker encoder, synthesizer, vocoder). The archive comes with the same directory structure as the repo, and you're expected to merge its contents with the root of the repository.
 
 ### Initial commit (latest release)
