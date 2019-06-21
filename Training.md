@@ -25,9 +25,11 @@ Here's the great thing about this repo: you're expected to run all python script
 
 `python encoder_preprocess.py <datasets_root>`
 
+For training, the encoder uses visdom. You can disable it with `--no_visdom`, but it's nice to have. Run "visdom" in a separate CLI/process to start your visdom server. Then run:
+
 `python encoder_train.py my_run <datasets_root>`
 
-The encoder uses visdom. You can disable it, but it's nice to have. Here's what the environment looks like:
+Here's what the visdom environment looks like:
 
 ![Visdom](https://i.imgur.com/rB1xk0b.png)
 
