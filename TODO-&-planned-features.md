@@ -4,6 +4,7 @@
 - [ ] Figure out which device is best to compute the loss on the encoder
 - [ ] Move on to a pytorch implementation of the synthesizer?
 - [ ] Post-generation cleaning routines for the vocoder?
+- [ ] Low mem support for inference
 
 ### Toolbox
 - [ ] Handle multiple users in the toolbox
