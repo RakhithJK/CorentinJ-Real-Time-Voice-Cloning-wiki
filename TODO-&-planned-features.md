@@ -14,7 +14,7 @@
 - [x] Display vocoder generation
 
 ### Code style
-- [ ] Object-oriented inference rather than the current static style
+- [x] Object-oriented inference rather than the current static style *(partially done)*
 - [ ] Setup a config file to allow for default argparse values (mainly datasets_root).
 - [ ] Change the structure of the hparams file for each model. I think a namespace is the better solution.
 - [ ] Properly document all inference functions
