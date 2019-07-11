@@ -7,6 +7,7 @@
 - [x] Low mem support for inference *(partially done)*
 
 ### Toolbox
+- [ ] Show the cloning quality
 - [ ] Handle multiple users in the toolbox
 - [ ] Allow for saving generated wavs in the toolbox
 - [ ] Use the top left space to draw a legend (rather than doing it inside the plot), and give the possibility to remove speakers from there
