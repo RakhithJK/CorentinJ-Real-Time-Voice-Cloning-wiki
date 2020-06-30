@@ -27,7 +27,7 @@ Here's the great thing about this repo: you're expected to run all python script
 
 For training, the encoder uses visdom. You can disable it with `--no_visdom`, but it's nice to have. Run "visdom" in a separate CLI/process to start your visdom server. Then run:
 
-`python encoder_train.py my_run <datasets_root>`
+`python encoder_train.py my_run <datasets_root>/SV2TTS/encoder`
 
 Here's what the visdom environment looks like:
 
