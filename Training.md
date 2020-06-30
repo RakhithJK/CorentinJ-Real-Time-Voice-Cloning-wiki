@@ -41,11 +41,11 @@ Begin with the audios and the mel spectrograms:
 
 Then the embeddings:
  
-`python synthesizer_preprocess_embeds.py <datasets_root>/synthesizer`
+`python synthesizer_preprocess_embeds.py <datasets_root>/SV2TTS/synthesizer`
 
 You can then train the synthesizer:
 
-`python synthesizer_train.py my_run <datasets_root>/synthesizer`
+`python synthesizer_train.py my_run <datasets_root>/SV2TTS/synthesizer`
 
 The synthesizer will output generated audios and spectrograms to its model directory when training. Refer to https://github.com/Rayhane-mamah/Tacotron-2 if you need help.
 
