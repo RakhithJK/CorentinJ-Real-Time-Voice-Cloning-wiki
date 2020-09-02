@@ -145,7 +145,7 @@ Expected result:
 `Max error: 0.000000`
 
 ## Install Cudnn
-from https://developer.nvidia.com/cudnn 
+for more info: https://developer.nvidia.com/cudnn 
 
 To download cuDNN Library for Linux, you need to log in. 
 
@@ -161,7 +161,9 @@ In the following sections:
 ### [2.3.1. Installing from a Tar File](https://docs.nvidia.com/deeplearning/sdk/cudnn-archived/cudnn_741/cudnn-install/index.html#installlinux-tar)
 1. Navigate to your <cudnnpath> directory containing the cuDNN Tar file.
 2. Unzip the cuDNN package.
-`$ tar -xzvf cudnn-9.0-linux-x64-v7.tgz`
+```
+$ tar -xzvf cudnn-9.0-linux-x64-v7.tgz
+```
 3. Copy the following files into the CUDA Toolkit directory, and change the file permissions.
 ```
 # below is my network share. Naviguate to the location where you unpacked the tar file
