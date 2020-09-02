@@ -1,7 +1,8 @@
 # Real-Time-Voice-Cloning Wiki Home Page
 
 ## Installation
-
+* [Ubuntu-20.04](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Installation---Ubuntu-20.04)
+* [Windows 10]() _TODO_
 
 ## Author's Original Pages
 [How it all works](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/How-it-all-works)
