@@ -4,11 +4,20 @@
 * [Ubuntu-20.04](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Installation---Ubuntu-20.04)
 * [Windows 10]() _TODO_
 
+## Training new models
+_TODO_
+
+### Training the encoder
+* [Pre-processing datasets]()
+
+### Training the synthesizer
+_TODO_
+
 ## Author's Original Pages
-[How it all works](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/How-it-all-works)
+* [How it all works](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/How-it-all-works)
 
-[Pretrained models](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Pretrained-models)
+* [Pretrained models](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Pretrained-models)
 
-[TODO & planned-features](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/TODO-&-planned-features)
+* [TODO & planned-features](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/TODO-&-planned-features)
 
-[Training](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Training)
+* [Training](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Training)
