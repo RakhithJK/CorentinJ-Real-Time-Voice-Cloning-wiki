@@ -11,9 +11,8 @@ cd ~
 mkdir github
 
 cd github
-mkdir rtvc
 
-git clone https://github.com/CorentinJ/Real-Time-Voice-Cloning.git /home/USER/github/rtvc
+git clone https://github.com/CorentinJ/Real-Time-Voice-Cloning.git
 ```
 
 
