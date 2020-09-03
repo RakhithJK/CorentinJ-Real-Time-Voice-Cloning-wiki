@@ -1,4 +1,4 @@
-# Installation Ubuntu 20.04 - MiniConda3
+# Installation Ubuntu 20.04 - Installing MiniConda3
 
 First, decide if you want to install for all users or current user.
 
