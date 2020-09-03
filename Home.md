@@ -2,7 +2,7 @@
 
 ## Installation
 * [Ubuntu-20.04](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Installation---Ubuntu-20.04)
-* [Windows 10]() _TODO_
+* [Windows 10](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Installation---Windows-10) _TODO_
 
 ## Training new models
 _TODO_
