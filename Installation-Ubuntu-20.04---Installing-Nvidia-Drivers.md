@@ -1,4 +1,4 @@
-# Installation Ubuntu 20.04 - Nvidia Drivers
+# Installation Ubuntu 20.04 - Installing Nvidia Drivers
 
 ## Install latest Nvidia drivers
 ```
