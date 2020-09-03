@@ -13,6 +13,9 @@ mkdir github
 cd github
 
 git clone https://github.com/CorentinJ/Real-Time-Voice-Cloning.git
+
+# move into the repo folder before continuing.
+cd Real-Time-Voice-Cloning
 ```
 
 
