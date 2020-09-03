@@ -14,7 +14,9 @@ sudo ./Miniconda3-latest-Linux-x86_64.sh
 ```
 
 ## Installing for All users
-Run the Install commands above for single user, but when asked for an install location, set the install path to: `>>> /opt/miniconda3`.
+Run the Install commands above for single user, but when asked for an install location, 
+
+set the install path to: `>>> /opt/miniconda3`.
 See below:
 ```
 # Miniconda3 will now be installed into this location:
