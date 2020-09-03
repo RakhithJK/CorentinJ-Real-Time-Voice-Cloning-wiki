@@ -2,13 +2,14 @@
 
 First, decide if you want to install for all users or current user.
 
-## Installing for single user
+## Installing for current user
 ```
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 chmod +x Miniconda3-latest-Linux-x86_64.sh
 # ./Miniconda3-latest-Linux-x86_64.sh
 
 sudo ./Miniconda3-latest-Linux-x86_64.sh
+# choose default install location
 ```
 
 ## Installing for All users
