@@ -8,7 +8,7 @@
 _TODO_
 
 ### Training the encoder
-* [Pre-processing datasets]()
+* [Pre-processing datasets]() _TODO_
 
 ### Training the synthesizer
 _TODO_
