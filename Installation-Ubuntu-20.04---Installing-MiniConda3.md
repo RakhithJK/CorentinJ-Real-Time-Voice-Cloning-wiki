@@ -1,6 +1,7 @@
 # Installation Ubuntu 20.04 - Installing MiniConda3
 
 First, decide if you want to install for all users or current user.
+> mbdash: I install for all users on my VMs
 
 ## Installing for current user
 ```
