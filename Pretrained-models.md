@@ -6,9 +6,9 @@ Please ensure the files are extracted to these locations within your local copy 
 ```
 encoder\saved_models\pretrained.pt
 synthesizer\saved_models\logs-pretrained\taco_pretrained\checkpoint
-synthesizer\saved_models\logs-pretrained\taco_pretrained\tacotron_model.ckpt-270000.data-00000-of-00001
-synthesizer\saved_models\logs-pretrained\taco_pretrained\tacotron_model.ckpt-270000.index
-synthesizer\saved_models\logs-pretrained\taco_pretrained\tacotron_model.ckpt-270000.meta
+synthesizer\saved_models\logs-pretrained\taco_pretrained\tacotron_model.ckpt-278000.data-00000-of-00001
+synthesizer\saved_models\logs-pretrained\taco_pretrained\tacotron_model.ckpt-278000.index
+synthesizer\saved_models\logs-pretrained\taco_pretrained\tacotron_model.ckpt-278000.meta
 vocoder\saved_models\pretrained\pretrained.pt
 ```
 
