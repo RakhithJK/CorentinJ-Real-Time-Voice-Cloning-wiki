@@ -1,4 +1,4 @@
-This is a step-by-step guide for reproducing the training. For explanations about the framework and how it works, see [TODO].
+This is a step-by-step guide for reproducing the training.
 
 ## Datasets
 There's a lot of data involved in fully training the three models. You'd want at least 500 gb of free space, and that's if you delete datasets after you used them. With 1 tb you're fine. 
@@ -47,7 +47,7 @@ You can then train the synthesizer:
 
 `python synthesizer_train.py my_run <datasets_root>/SV2TTS/synthesizer`
 
-The synthesizer will output generated audios and spectrograms to its model directory when training. Refer to https://github.com/Rayhane-mamah/Tacotron-2 if you need help.
+The synthesizer will output generated audios and spectrograms to its model directory when training. 
 
 Use the synthesizer to generate training data for the vocoder:
 
